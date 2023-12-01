@@ -1,2 +1,3 @@
 # personal_website
-just a small personal website
+Small personal website written in Python and Flask webframework. 
+Dockerized & terraform code to automatically deploy to AWS. 
