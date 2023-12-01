@@ -44,10 +44,8 @@ crash.*.log
 
 # Ignore CLI configuration files
 
-.terraformrc
+/terraform/.terraformrc
 
-terraform.rc
+/terraform/terraform.rc
 
-
-
-
+/terraform/.terraform.lock.hcl
